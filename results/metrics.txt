@@ -1,0 +1,5 @@
+MAE: 2228
+RMSE: 15432
+R2: 0.27
+Silhouette Score: 0.96
+KMeans clusters: 3
